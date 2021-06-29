@@ -7,7 +7,7 @@
 - 🎓 I'm studying at the University of Moratuwa.(Computer)
 - 👯 I’m looking to collaborate on Java Projects.
 - 🤔 I’m looking for help with Java and Flutter developments.
-- 📫 How to reach me: <a href ="www.linkedin.com/in/uditha-isuranga">
+- 📫 How to reach me: <a href ="www.linkedin.com/in/uditha-isuranga">My Linkedin Profile</a>
 - ⚡ Fun fact: 🧳Travelling, 🕺🏻Music
 
 
