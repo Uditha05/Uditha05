@@ -25,11 +25,12 @@
 </p>
 
 ***Frameworks and Libraries*  :**
-<>
+<p>
 <code><img height="30" src="https://github.com/Uditha05/Uditha05/blob/main/Logos/springio-ar21.svg"></code>
 <code><img height="30" src="https://github.com/Uditha05/Uditha05/blob/main/Logos/flutter.svg"></code>
 <code><img height="30" src="https://github.com/Uditha05/Uditha05/blob/main/Logos/nodeJs.svg"></code>
-<>
+</p>
+
 ***Tools*  :**
 <p>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"></code>
