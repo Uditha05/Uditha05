@@ -22,7 +22,12 @@
 <code><img height="30" src="https://github.com/Uditha05/Uditha05/blob/main/Logos/dart.png"></code>
 <code><img height="30" src="https://github.com/Uditha05/Uditha05/blob/main/Logos/javascript.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
+</p>
 
+***Database Systems*  :**
+<p>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"></code>
 </p>
 
 ***Frameworks and Libraries*  :**
