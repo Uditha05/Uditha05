@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Spring(Java), Flutter and Unity Engine.
 - 🎓 I'm studying at the University of Moratuwa.(Computer Science and Engineering)
 - 👯 I’m looking to collaborate on Java Projects.
-- 🤔 I’m looking for help with Java and Flutter developments.
 - 📫 How to reach me: 
 <a href ='https://www.linkedin.com/in/uditha-isuranga/'>My Linkedin Profile</a>
 - ⚡ Fun fact: 🧳Traveling, 🕺🏻Music
