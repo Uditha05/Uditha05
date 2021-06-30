@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with Java and Flutter developments.
 - 📫 How to reach me: 
 <a href ='https://www.linkedin.com/in/uditha-isuranga/'>My Linkedin Profile</a>
-- ⚡ Fun fact: 🧳Travelling, 🕺🏻Music
+- ⚡ Fun fact: 🧳Traveling, 🕺🏻Music
 
 
 ## My Skills  :
