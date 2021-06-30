@@ -26,7 +26,7 @@
 
 ***Database Systems*  :**
 <p>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg"></code>
+<code><img height="30" src="https://github.com/Uditha05/Uditha05/blob/main/Logos/MySQL-Logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"></code>
 </p>
 
