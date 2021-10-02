@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on hexcodelab.lk and eventseekout.com.
+- 🔭 I’m currently doing projects in hexcodelab.lk and eventseekout.com.
 - 🌱 I’m currently learning Spring(Java), Flutter and Unity Engine.
 - 🎓 I'm studying at the University of Moratuwa.(Computer Science and Engineering)
 - 👯 I’m looking to collaborate on Java Projects.
