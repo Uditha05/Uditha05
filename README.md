@@ -14,18 +14,19 @@
   <img alt="Profile" align="center" src="https://github-readme-stats.vercel.app/api?username=Uditha05&count_private=true&show_icons=true&custom_title=My%20Github%20Statistics&hide=stars,issues" />
 </a>
 <br/>
+<br/>
 <a href="https://github.com/Uditha05">
   <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uditha05&langs_count=9&layout=compact" />
 </a>
 
-## My Skills  :
+## My Interests  :
 
-***Languages*  :**
+***Programming Languages*  :**
 <p> 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img height="30" src="https://github.com/Uditha05/Uditha05/blob/main/Logos/java-ar21.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
 <code><img height="30" src="https://github.com/Uditha05/Uditha05/blob/main/Logos/dart.png"></code>
+<code><img height="30" src="https://github.com/Uditha05/Uditha05/blob/main/Logos/java-ar21.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
 <code><img height="30" src="https://github.com/Uditha05/Uditha05/blob/main/Logos/javascript.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 </p>
