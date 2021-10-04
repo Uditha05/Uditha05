@@ -10,6 +10,12 @@
 <a href ='https://www.linkedin.com/in/uditha-isuranga/'>My Linkedin Profile</a>
 - ⚡ Fun fact: 🧳Traveling, 🕺🏻Music
 
+<a href="https://github.com/Uditha05">
+  <img alt="Profile" align="center" src="https://github-readme-stats.vercel.app/api?username=Uditha05&count_private=true&show_icons=true&custom_title=My%20Github%20Statistics&hide=stars,issues" />
+</a>
+<a href="https://github.com/Uditha05">
+  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uditha05&langs_count=9&layout=compact" />
+</a>
 
 ## My Skills  :
 
