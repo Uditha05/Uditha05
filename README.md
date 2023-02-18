@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently doing projects in <a href ='https://hexcodelabs.lk/crew'>Hexcodelab</a> and <a href ='https://eventseekout.com/'>EventSeekOut</a>.
+- 🔭 I’m currently doing projects in <a href ='https://www.hashbaze.com/'>Hashbaze</a> and <a href ='https://eventseekout.com/'>EventSeekOut</a>.
 - 🌱 I’m currently learning Spring(Java), Flutter and Unity Engine.
 - 🎓 I'm studying at the University of Moratuwa.(Computer Science and Engineering)
 - 👯 I’m looking to collaborate on Java Projects.
@@ -22,7 +22,7 @@
 <code><img height="30" src="https://github.com/Uditha05/Uditha05/blob/main/Logos/dart.png"></code>
 <code><img height="30" src="https://github.com/Uditha05/Uditha05/blob/main/Logos/java-ar21.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="30" src="https://github.com/Uditha05/Uditha05/blob/main/Logos/javascript.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 </p>
@@ -45,4 +45,5 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="30" src="https://github.com/Uditha05/Uditha05/blob/main/Logos/visual-studio.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
 </p>
