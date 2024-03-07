@@ -1,7 +1,11 @@
 ### Hi there, I am Uditha Isuranga 👋
 
+- 📫 How to reach me: 
+<a href ='https://www.linkedin.com/in/uditha-isuranga/'>My Linkedin Profile</a>
 
 
+
+<!-- 
 - 🔭 I’m currently doing projects in <a href ='https://www.hashbaze.com/'>Hashbaze</a> and <a href ='https://eventseekout.com/'>EventSeekOut</a>.
 - 🌱 I’m currently learning Spring(Java), Flutter and Unity Engine.
 - 🎓 I'm studying at the University of Moratuwa.(Computer Science and Engineering)
@@ -46,4 +50,4 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
 <code><img height="30" src="https://github.com/Uditha05/Uditha05/blob/main/Logos/visual-studio.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
-</p>
+</p> -->
